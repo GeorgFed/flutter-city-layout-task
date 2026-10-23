@@ -1,5 +1,5 @@
 name: city_layout_task
-description: Layout practice with ready-made local data and state.
+description: One-file widget and FutureBuilder practice.
 publish_to: none
 version: 1.0.0+1
 environment:
